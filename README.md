@@ -1,1 +1,1 @@
-My first work with THP
+First simple project in HTML/CSS => Create a google homepage
